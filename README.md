@@ -1,5 +1,5 @@
 # create-js-app
-#### create html/css/js and connect in just on command
+#### create html/css/js and connect in just one command
 
 ## Requirements
 create-js-app requires [Node.js](https://nodejs.org/) to run.
