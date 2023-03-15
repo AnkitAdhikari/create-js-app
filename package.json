@@ -1,0 +1,23 @@
+{
+  "name": "create-js-app",
+  "version": "1.0.0",
+  "description": "create-js-app is an npm script that helps you to create workspace for basic web development with a custom folder name and with file such as html/css/js file linked together and ready with boilerplate to work seamlessly",
+  "main": "script/create-js-app.js",
+  "scripts": {
+    "test": "create-js-app myworkspace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitAdhikari/create-js-app.git"
+  },
+  "keywords": [
+    "webdev",
+    "template"
+  ],
+  "author": "Ankit Adhikari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnkitAdhikari/create-js-app/issues"
+  },
+  "homepage": "https://github.com/AnkitAdhikari/create-js-app#readme"
+}
